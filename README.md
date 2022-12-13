@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working at Universiti Malaysia Sabah
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python, Mariadb, Coldbox Framework, etc
 
 <!-- - 👯 I’m looking to collaborate on Projects with ERPNext, Odoo, Laravel and all the stack around it. -->
 
