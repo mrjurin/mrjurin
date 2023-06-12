@@ -15,7 +15,7 @@
 - 🔭 I’m currently working at Universiti Malaysia Sabah
 - 🔭 I’m currently working as Freelance Trainer
 - 🌱 I’m currently learning Coldbox Framework, etc
-- 🌱 Heavily involved in ERP Ecosystem, Softawre Architecture and Software Development Methodolgy like SCRUM & KANBAN
+- 🌱 Heavily involved in ERP Ecosystem, Software Architecture and Software Development Methodolgy like SCRUM & KANBAN
 
 <!-- - 👯 I’m looking to collaborate on Projects with ERPNext, Odoo, Laravel and all the stack around it. -->
 
