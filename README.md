@@ -29,7 +29,7 @@ End-to-end ERPNext go-live for a private college in Sabah. Covers HR, attendance
 ### 🔧 Custom ERP Module + PWA — HASB SDN BHD *(In Progress)*
 Custom poultry management module using Odoo, paired with a Vue 3 Progressive Web App for field workers — with offline capability built in for rural connectivity.
 
-`ERPNext` `Vue 3` `PWA` `Offline-first` `Agri-Business`
+`Odoo` `Vue 3` `PWA` `Offline-first` `Agri-Business`
 
 ---
 
